@@ -45,6 +45,10 @@ class categoryList extends React.Component {
       });
   };
 
+  // TODO: hover
+  handleHover = () => {
+    return null;
+  }
   render() {
     return (
       <div>
